@@ -1,0 +1,14 @@
+{
+  "name": "distro",
+  "version": "0.0.1",
+  "description": "A bo that lets you backup your accounts in-case you get termed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}

@@ -1,0 +1,5 @@
+# Hide Config
+config.json
+
+# Hide Node
+/node_modules
